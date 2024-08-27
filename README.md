@@ -15,6 +15,15 @@
 </p>
 
 <hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
+<hr>
 
 <h2>🔍 About Me</h2>
 <p>
@@ -86,7 +95,7 @@
   <li><strong>Machine Learning & Deep Learning:</strong> Scikit-learn, TensorFlow, Keras</li>
   <li><strong>Database Management:</strong> MySQL, PostgreSQL </li>
   <li><strong>Version Control & Collaboration:</strong> Git, GitHub, JIRA</li>
-  <li><strong>Other Tools:</strong> Jupyter, Docker, Kubernetes</li>
+  <li><strong>Other Tools:</strong> Jupyter, RStudio, pgAdmin4</li>
 </ul>
 
 <h2>🛠️ Domain</h2>
