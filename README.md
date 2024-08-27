@@ -63,7 +63,7 @@
 
 <h2>🚀 Projects</h2>
 <ul>
-  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://github.com/UttaraKet1607/online-review-usefulness">[GitHub]</a>
+  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://github.com/pconnell/CSCI-Final-Project">[GitHub]</a>
     <ul>
       <li>Expanded on previous research using multiple linear regression to predict review usefulness across e-commerce platforms.</li>
       <li>Implemented predictive models like Logistic Regression, KNN, and SVM to improve sentiment analysis.</li>
@@ -75,13 +75,13 @@
       <li>Leveraged data visualizations and feature engineering to enhance financial resource accessibility.</li>
     </ul>
   </li>
-  <li><strong>Obesity Risk Analysis: Influence of Day-to-Day Activities on Obesity Levels</strong> | <a href="https://github.com/UttaraKet1607/obesity-risk-analysis">[GitHub]</a>
+  <li><strong>Obesity Risk Analysis: Influence of Day-to-Day Activities on Obesity Levels</strong> | <a href="https://github.com/aneeshkhole/aneeshkhole.github.io">[GitHub]</a>
     <ul>
       <li>Conducted statistical analysis on patient records to identify characteristics linked to obesity risk.</li>
       <li>Implemented Naïve Bayes to categorize obesity levels based on lifestyle factors.</li>
     </ul>
   </li>
-  <li><strong>Modeling Lithium Iron Phosphate Nanoparticles for Lithium-Ion Batteries</strong> | <a href="https://doi.org/10.1016/j.electacta.2023.138788">[Publication]</a>
+  <li><strong>Modeling Lithium Iron Phosphate Nanoparticles for Lithium-Ion Batteries</strong> | <a href="https://pubs.aip.org/aip/acp/article/2901/1/070020/2930054/Modelling-and-study-of-lithium-iron-phosphate">[Publication]</a>
     <ul>
       <li>Used Python and Simulated Annealing to optimize nanoparticle geometry for improved battery performance.</li>
       <li>Contributed to energy sustainability research in lithium-ion battery design.</li>
