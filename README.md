@@ -14,17 +14,6 @@
   </a>
 </p>
 
-<hr>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
-
-<hr>
-
 <h2>🔍 About Me</h2>
 <p>
   I am a Data Scientist with a strong academic background, currently pursuing my <strong>Master of Science in Data Science</strong> from the University of Colorado Boulder. My journey into data science has been driven by my passion for uncovering patterns and insights from complex datasets and applying them to solve real-world problems.
