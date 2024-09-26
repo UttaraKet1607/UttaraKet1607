@@ -59,7 +59,7 @@
 
 <h2>🚀 Projects</h2>
 <ul>
-  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://github.com/pconnell/CSCI-Final-Project">[GitHub]</a>
+  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://pconnell.github.io/CSCI-Final-Project/">[GitHub]</a>
     <ul>
       <li>Expanded research using multiple linear regression to predict e-commerce review usefulness, collecting over 50,000 reviews.</li>
       <li>Applied feature engineering and various models to improve sentiment analysis and review classification.</li>
