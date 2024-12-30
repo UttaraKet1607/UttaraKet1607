@@ -24,29 +24,30 @@
 
 <h2>💼 Experience</h2>
 <ul>
-  <li><strong>Data Science Intern</strong> at Parlay Finance
+  <li><strong>Data Science Intern</strong> at Parlay Finance (Aug 2024 – Present)
     <ul>
       <li>Developed a data-driven Borrower Dashboard for loan applicants using Python, automating data scraping and visualization, enhancing decision-making and financial accessibility.</li>
-      <li>Built a GenAI-powered loan application summarization pipeline using AWS Sagemaker, significantly reducing underwriting time.</li>
+      <li>Built a GenAI-powered loan application summarization pipeline using AWS Bedrock, significantly reducing underwriting time.</li>
       <li>Automated ETL pipelines for data acquisition from VerticalIQ and Lumos BI, transforming and storing data in PostgreSQL.</li>
     </ul>
   </li>
-  <li><strong>Graduate Researcher</strong> at Animal Inspired Movement and Robotics Laboratory, University of Colorado Boulder
+  <li><strong>Graduate Researcher</strong> at Animal Inspired Movement and Robotics Laboratory, University of Colorado Boulder (May 2024 – Present)
     <ul>
       <li>Applied DeepLabCut and ResNet-152 for markerless 3D pose estimation, enhancing motion tracking for biomechanics research.</li>
       <li>Visualized 3D spatial data using Python to improve data interpretation in spider locomotion studies.</li>
+      <li>Conducted hypothesis testing and Principal Component Analysis (PCA) on 3D data to identify key movement patterns.</li>
     </ul>
   </li>
-  <li><strong>Student Assistant</strong> at CU – Data Science, University of Colorado Boulder
+  <li><strong>Student Assistant</strong> at CU – Data Science, University of Colorado Boulder (May 2024 – Present)
     <ul>
       <li>Conducted K-modes clustering on student data to identify key risk categories, guiding support strategies.</li>
       <li>Built time series models to forecast student enrollment, aiding in departmental planning.</li>
     </ul>
   </li>
-  <li><strong>Faculty Data & Impact Project Assistant</strong> at Office of Faculty Affairs, University of Colorado Boulder
+  <li><strong>Faculty Data & Impact Project Assistant</strong> at Office of Faculty Affairs, University of Colorado Boulder (Aug 2023 – Aug 2024)
     <ul>
       <li>Automated faculty reports using SQL, processing data for over 1,000 faculty members.</li>
-      <li>Collaborated with stakeholders to create an integrated data model, improving reporting efficiency.</li>
+      <li>Collaborated with stakeholders to create an integrated data model, improving payroll & faculty impact reporting.</li>
     </ul>
   </li>
   <li><strong>Deep Learning Intern</strong> at WizPhys AI Pvt Ltd
@@ -59,24 +60,30 @@
 
 <h2>🚀 Projects</h2>
 <ul>
-  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://pconnell.github.io/CSCI-Final-Project/">[GitHub]</a>
+  <li><strong>DigitalCast: A Cloud-Based Digital Signage Platform</strong> | <a href="https://github.com/UttaraKet1607/CSCI-5253-DCSC-Final-Project" target="_blank">[GitHub]</a>
     <ul>
-      <li>Expanded research using multiple linear regression to predict e-commerce review usefulness, collecting over 50,000 reviews.</li>
-      <li>Applied feature engineering and various models to improve sentiment analysis and review classification.</li>
+      <li>Designed a scalable digital signage platform using Kubernetes and GCP services (GCS, Pub/Sub), with Flask-based frontend for media uploads and scheduling.</li>
+      <li>Integrated PostgreSQL for metadata management and utilized Pub/Sub for decoupling workflows, ensuring robust asynchronous communication.</li>
     </ul>
   </li>
-  <li><strong>Obesity Risk Analysis: Influence of Day-to-Day Activities on Obesity Levels</strong> | <a href="https://github.com/aneeshkhole/aneeshkhole.github.io">[GitHub]</a>
+  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://github.com/UttaraKet1607/CSCI-Final-Project" target="_blank">[GitHub]</a>
     <ul>
-      <li>Analyzed patient records to identify factors linked to obesity risk using R and statistical modeling.</li>
-      <li>Implemented Naïve Bayes to categorize obesity levels based on lifestyle factors.</li>
+      <li>Collected and cleaned over 50,000 e-commerce reviews using Selenium, BeautifulSoup, and Python (Pandas, NumPy).</li>
+      <li>Applied feature engineering and various models like Logistic Regression and SVM to classify review usefulness.</li>
+    </ul>
+  </li>
+  <li><strong>Obesity Risk Analysis: Influence of Day-to-Day Activities on Obesity Levels</strong> | <a href="https://github.com/aneeshkhole/aneeshkhole.github.io" target="_blank">[GitHub]</a>
+    <ul>
+      <li>Analyzed 2,000+ patient records to identify factors linked to obesity risk using R and statistical modeling (tidyverse, ggplot, plotly).</li>
+      <li>Implemented Naïve Bayes classification to estimate the probability of obesity categories based on lifestyle factors.</li>
     </ul>
   </li>
 </ul>
 
 <h2>🛠️ Skills</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> Python, R, C++, C, SQL (PostgreSQL, DbVisualizer)</li>
-  <li><strong>Cloud:</strong> AWS (Sagemaker, Bedrock), Google Cloud Platform</li>
+  <li><strong>Programming Languages:</strong> Python, R, SQL (PostgreSQL, DbVisualizer), C++, C</li>
+  <li><strong>Cloud:</strong> AWS (Bedrock, Sagemaker), Google Cloud Platform (GCS, Pub/Sub)</li>
   <li><strong>Data Science Tools:</strong> Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, Keras, TensorFlow, BeautifulSoup, Selenium, tidyverse, ggplot, PowerBI</li>
   <li><strong>Project Management:</strong> GitHub, Microsoft Office Suite, Jira</li>
 </ul>
