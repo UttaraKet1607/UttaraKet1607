@@ -82,7 +82,7 @@
 
 <h2>🛠️ Skills</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> Python, R, SQL (PostgreSQL, DbVisualizer), C++, C</li>
+  <li><strong>Programming Languages:</strong> Python, R, SQL (PostgreSQL, DbVisualizer)</li>
   <li><strong>Cloud:</strong> AWS (Bedrock, Sagemaker), Google Cloud Platform (GCS, Pub/Sub)</li>
   <li><strong>Data Science Tools:</strong> Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, Keras, TensorFlow, BeautifulSoup, Selenium, tidyverse, ggplot, PowerBI</li>
   <li><strong>Project Management:</strong> GitHub, Microsoft Office Suite, Jira</li>
