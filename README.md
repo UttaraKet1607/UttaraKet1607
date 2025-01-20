@@ -50,12 +50,6 @@
       <li>Collaborated with stakeholders to create an integrated data model, improving payroll & faculty impact reporting.</li>
     </ul>
   </li>
-  <li><strong>Deep Learning Intern</strong> at WizPhys AI Pvt Ltd
-    <ul>
-      <li>Designed a human body pose estimation system integrated into a mobile app, achieving 87% accuracy.</li>
-      <li>Curated and annotated a diverse dataset for improved model performance.</li>
-    </ul>
-  </li>
 </ul>
 
 <h2>🚀 Projects</h2>
