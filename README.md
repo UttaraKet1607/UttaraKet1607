@@ -24,13 +24,6 @@
 
 <h2>💼 Experience</h2>
 <ul>
-  <li><strong>Data Science Intern</strong> at Parlay Finance (Aug 2024 – Present)
-    <ul>
-      <li>Developed a data-driven Borrower Dashboard for loan applicants using Python, automating data scraping and visualization, enhancing decision-making and financial accessibility.</li>
-      <li>Built a GenAI-powered loan application summarization pipeline using AWS Bedrock, significantly reducing underwriting time.</li>
-      <li>Automated ETL pipelines for data acquisition from VerticalIQ and Lumos BI, transforming and storing data in PostgreSQL.</li>
-    </ul>
-  </li>
   <li><strong>Graduate Researcher</strong> at Animal Inspired Movement and Robotics Laboratory, University of Colorado Boulder (May 2024 – Present)
     <ul>
       <li>Applied DeepLabCut and ResNet-152 for markerless 3D pose estimation, enhancing motion tracking for biomechanics research.</li>
@@ -42,6 +35,13 @@
     <ul>
       <li>Conducted K-modes clustering on student data to identify key risk categories, guiding support strategies.</li>
       <li>Built time series models to forecast student enrollment, aiding in departmental planning.</li>
+    </ul>
+  </li>
+  <li><strong>Data Science Intern</strong> at Parlay Finance (Sept 2024 - Dec 2024)
+    <ul>
+      <li>Developed a data-driven Borrower Dashboard for loan applicants using Python, automating data scraping and visualization, enhancing decision-making and financial accessibility.</li>
+      <li>Built a GenAI-powered loan application summarization pipeline using AWS Bedrock, significantly reducing underwriting time.</li>
+      <li>Automated ETL pipelines for data acquisition from VerticalIQ and Lumos BI, transforming and storing data in PostgreSQL.</li>
     </ul>
   </li>
   <li><strong>Faculty Data & Impact Project Assistant</strong> at Office of Faculty Affairs, University of Colorado Boulder (Aug 2023 – Aug 2024)
