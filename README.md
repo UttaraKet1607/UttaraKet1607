@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Data Scientist | Data Analyst</strong><br>
-  Passionate about leveraging data to drive insights and innovations across various domains.
 </p>
 
 <p align="center">
@@ -16,79 +15,77 @@
 
 <h2>🔍 About Me</h2>
 <p>
-  I am a Data Scientist with a strong academic foundation, currently pursuing my <strong>Master of Science in Data Science</strong> at the University of Colorado Boulder, maintaining a GPA of 4.00. My passion for uncovering patterns and insights from complex datasets drives my dedication to solving real-world challenges through data.
-</p>
-<p>
-  With hands-on experience in machine learning, statistical modeling, and data analysis, I have contributed to various impactful projects. I aim to further my career in data science and make significant contributions to innovative solutions.
+ I recently completed my Master of Science in Data Science and bring hands-on experience across multiple domains including finance, education, and research. My work spans data engineering, machine learning, statistical modeling, cloud platforms, and end-to-end analytics. I enjoy solving complex problems, building scalable data pipelines, and translating data into clear, actionable insights that drive decision-making. My cross-domain background enables me to adapt quickly, work effectively with diverse stakeholders, and deliver impact in fast-moving environments.
 </p>
 
 <h2>💼 Experience</h2>
 <ul>
-  <li><strong>Graduate Researcher</strong> at Animal Inspired Movement and Robotics Laboratory, University of Colorado Boulder (May 2024 – Present)
+  <li><strong>Data Analyst</strong> at Bayview Asset Management, Denver, CO (2025 - Present)
     <ul>
-      <li>Applied DeepLabCut and ResNet-152 for markerless 3D pose estimation, enhancing motion tracking for biomechanics research.</li>
-      <li>Visualized 3D spatial data using Python to improve data interpretation in spider locomotion studies.</li>
-      <li>Conducted hypothesis testing and Principal Component Analysis (PCA) on 3D data to identify key movement patterns.</li>
+      <li>Designed a data warehouse framework and automated ETL pipelines for loan level due diligence, reducing processing time by 85%.</li>
+      <li>Enhanced audit readiness and data quality by optimizing governance workflows and building Power BI KPI dashboards.</li>
+      <li>Supported enterprise AI adoption using Copilot, prompt engineering, and RAG based search pipelines.</li>
     </ul>
   </li>
-  <li><strong>Student Assistant</strong> at CU – Data Science, University of Colorado Boulder (May 2024 – Present)
+
+  <li><strong>Data Management Intern</strong> at Bayview Asset Management (Jan 2025 - May 2025)
     <ul>
-      <li>Conducted K-modes clustering on student data to identify key risk categories, guiding support strategies.</li>
-      <li>Built time series models to forecast student enrollment, aiding in departmental planning.</li>
+      <li>Improved data integrity by designing SQL views and performing large-scale reconciliation across origination systems.</li>
+      <li>Developed metadata, data lineage, and documentation standards for analytics and compliance teams.</li>
     </ul>
   </li>
+
   <li><strong>Data Science Intern</strong> at Parlay Finance (Sept 2024 - Dec 2024)
     <ul>
-      <li>Developed a data-driven Borrower Dashboard for loan applicants using Python, automating data scraping and visualization, enhancing decision-making and financial accessibility.</li>
-      <li>Built a GenAI-powered loan application summarization pipeline using AWS Bedrock, significantly reducing underwriting time.</li>
-      <li>Automated ETL pipelines for data acquisition from VerticalIQ and Lumos BI, transforming and storing data in PostgreSQL.</li>
+      <li>Built ETL pipelines with Python, AWS, and SQL to aggregate KPIs across 500+ industries.</li>
+      <li>Developed a high precision borrower scoring model using Tab Transformers and ensemble techniques.</li>
+      <li>Deployed a GenAI loan summarizer using AWS Bedrock, reducing underwriting time from 1 month to 2 weeks.</li>
     </ul>
   </li>
-  <li><strong>Faculty Data & Impact Project Assistant</strong> at Office of Faculty Affairs, University of Colorado Boulder (Aug 2023 – Aug 2024)
+
+  <li><strong>Graduate Researcher</strong> at AIMRL, University of Colorado Boulder (May 2024 - May 2025)
     <ul>
-      <li>Automated faculty reports using SQL, processing data for over 1,000 faculty members.</li>
-      <li>Collaborated with stakeholders to create an integrated data model, improving payroll & faculty impact reporting.</li>
+      <li>Engineered deep learning pipelines for 3D pose estimation using DeepLabCut and ResNet-152.</li>
+      <li>Automated data annotation workflows using Blender and Unreal Engine, reducing manual effort by 75%.</li>
     </ul>
   </li>
 </ul>
 
 <h2>🚀 Projects</h2>
 <ul>
-  <li><strong>DigitalCast: A Cloud-Based Digital Signage Platform</strong> | <a href="https://github.com/UttaraKet1607/CSCI-5253-DCSC-Final-Project" target="_blank">[GitHub]</a>
+  <li><strong>DigitalCast: Cloud-Based Digital Signage Platform</strong> | <a href="https://github.com/UttaraKet1607/CSCI-5253-DCSC-Final-Project" target="_blank">[GitHub]</a>
     <ul>
-      <li>Designed a scalable digital signage platform using Kubernetes and GCP services (GCS, Pub/Sub), with Flask-based frontend for media uploads and scheduling.</li>
-      <li>Integrated PostgreSQL for metadata management and utilized Pub/Sub for decoupling workflows, ensuring robust asynchronous communication.</li>
+      <li>Designed a microservices architecture using GCP, Kubernetes, and Pub/Sub for scalable media distribution.</li>
+      <li>Implemented asset management with PostgreSQL and real-time updates via REST APIs.</li>
     </ul>
   </li>
-  <li><strong>Predicting the Perceived Usefulness of Online Customer Reviews</strong> | <a href="https://github.com/UttaraKet1607/CSCI-Final-Project" target="_blank">[GitHub]</a>
+
+  <li><strong>Predicting Perceived Usefulness of Online Reviews</strong> | <a href="https://github.com/UttaraKet1607/CSCI-Final-Project" target="_blank">[GitHub]</a>
     <ul>
-      <li>Collected and cleaned over 50,000 e-commerce reviews using Selenium, BeautifulSoup, and Python (Pandas, NumPy).</li>
-      <li>Applied feature engineering and various models like Logistic Regression and SVM to classify review usefulness.</li>
+      <li>Scraped 50k+ reviews using Selenium and BeautifulSoup and performed large scale feature engineering.</li>
+      <li>Improved SVM performance with PCA and hyperparameter tuning to classify review usefulness.</li>
     </ul>
   </li>
-  <li><strong>Obesity Risk Analysis: Influence of Day-to-Day Activities on Obesity Levels</strong> | <a href="https://github.com/aneeshkhole/aneeshkhole.github.io" target="_blank">[GitHub]</a>
+
+  <li><strong>Obesity Risk Analysis</strong> | <a href="https://github.com/aneeshkhole/aneeshkhole.github.io" target="_blank">[GitHub]</a>
     <ul>
-      <li>Analyzed 2,000+ patient records to identify factors linked to obesity risk using R and statistical modeling (tidyverse, ggplot, plotly).</li>
-      <li>Implemented Naïve Bayes classification to estimate the probability of obesity categories based on lifestyle factors.</li>
+      <li>Applied statistical modeling in R to identify lifestyle factors contributing to obesity risk.</li>
+      <li>Built Naïve Bayes models to classify obesity categories from demographic and behavioral data.</li>
     </ul>
   </li>
 </ul>
 
 <h2>🛠️ Skills</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> Python, R, SQL (PostgreSQL, DbVisualizer)</li>
-  <li><strong>Cloud:</strong> AWS (Bedrock, Sagemaker), Google Cloud Platform (GCS, Pub/Sub)</li>
-  <li><strong>Data Science Tools:</strong> Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, Keras, TensorFlow, BeautifulSoup, Selenium, tidyverse, ggplot, PowerBI</li>
-  <li><strong>Project Management:</strong> GitHub, Microsoft Office Suite, Jira</li>
-</ul>
-
-<h2>🛠️ Domain</h2>
-<ul>
-  <li><strong>Machine Learning:</strong> Regression, Classification, Random Forest, SVM, KNN, Clustering, Neural Networks, Computer Vision</li>
-  <li><strong>Statistics:</strong> Hypothesis Testing, Bootstrapping, Data Wrangling, GAMs, GLMs, Statistical Modeling</li>
+  <li><strong>Programming:</strong> Python, R, SQL</li>
+  <li><strong>Cloud:</strong> AWS (Bedrock, EC2, S3), GCP (GCS, Pub/Sub, Kubernetes), Spark, Hadoop</li>
+  <li><strong>ML & Analytics:</strong> Scikit-Learn, TensorFlow, PCA, Forecasting, SHAP, ETL, Data Modeling</li>
+  <li><strong>Visualization:</strong> Power BI, Matplotlib, Seaborn</li>
+  <li><strong>Project Tools:</strong> GitHub, Jira, Excel (VLOOKUP, Pivot Tables, VBA)</li>
 </ul>
 
 <h2>🌐 Connect with Me</h2>
 <p>
-  I’m always open to discussing data science, technology, or new opportunities. Feel free to reach out via <a href="mailto:uttara.ketkar@colorado.edu">email</a> or connect with me on <a href="https://www.linkedin.com/in/uttaraketkar/">LinkedIn</a>.
+  I’m always open to discussing data science, fintech, analytics, or new opportunities.  
+  Feel free to reach out via <a href="mailto:uttara.ketkar@colorado.edu">email</a> or connect with me on <a href="https://www.linkedin.com/in/uttaraketkar/">LinkedIn</a>.
 </p>
